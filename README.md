@@ -18,7 +18,7 @@ This project is a basic keylogger that captures and logs keystrokes on a system.
 ## Installation & Usage
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-repo/keylogger.git
+git clone https://github.com/Sankalp-Reddy/KeyLogger.git
 cd keylogger
 ```
 ### Install Dependencies
