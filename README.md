@@ -50,7 +50,3 @@ This project is strictly for educational purposes. The author does not take any 
 ## License
 This project is released under the MIT License.
 
-## Author
-**Sankalp Reddy**  
-GitHub: [Your Profile](https://github.com/Sankalp-Reddy)
-
